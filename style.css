@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+
+.heading{
+    width: 80%;
+    font-size: 30px;
+}
+
+.object_names, #Object_name, #Accurary_of_object{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#webcam{
+    border: 3px dashed azure;
+    height: 300px;
+    width: 354px;
+}
+
